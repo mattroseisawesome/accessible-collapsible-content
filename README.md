@@ -1,4 +1,4 @@
-accessible-accordions
+accessible-collapsible-content
 =====================
 
 jQuery plugin for accessible, unobtrusive collapsible content items.
